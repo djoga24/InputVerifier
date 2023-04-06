@@ -31,7 +31,7 @@ public class InputVerifier {
         main_frame.add(panel);
 
         // Set frame properties
-        main_frame.setSize(300, 120);
+        main_frame.setSize(301, 120);
         main_frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
         main_frame.setLocationRelativeTo(null);
         main_frame.setResizable(false);
