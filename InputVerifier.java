@@ -56,6 +56,7 @@ public class InputVerifier {
             // Display message if input is not an integer
             JOptionPane.showMessageDialog(main_frame, input + " is not an integer");
             inputField.setText("");
+            resultLabel.setText("");
         }
     }
 
